@@ -1,0 +1,15 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/amemiya02/deepseekcode/releases/download/v0.3.1/deepseekcode_0.3.1_windows_amd64.zip",
+            "bin": [
+                "dsc.exe"
+            ],
+            "hash": "6bc6448dfbdc4b4d0dbab28f68c58947c42006f0fe1834b9d8420c7a368e2143"
+        }
+    },
+    "homepage": "https://github.com/amemiya02/deepseekcode",
+    "license": "MIT",
+    "description": "Terminal-native coding agent for DeepSeek models."
+}

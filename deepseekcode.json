@@ -1,12 +1,12 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/amemiya02/deepseekcode/releases/download/v0.3.3/deepseekcode_0.3.3_windows_amd64.zip",
+            "url": "https://github.com/amemiya02/deepseekcode/releases/download/v0.3.4/deepseekcode_0.3.4_windows_amd64.zip",
             "bin": [
                 "dsc.exe"
             ],
-            "hash": "2271a33e8a8250c55fa91d11da160e6b8424211fb82f25478dd02caaaa36d8d2"
+            "hash": "b7eed8c19c66e1195415492806f0480c3889fa6e7e1f0d8a44deff992f9adbea"
         }
     },
     "homepage": "https://github.com/amemiya02/deepseekcode",
